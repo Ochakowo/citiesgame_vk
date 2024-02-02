@@ -1,24 +1,24 @@
 EN::\
 To run use: `cities.py`
 
-Upon the first launch of the bot, you will be required to log in to your VK account. \
-This will create a folder named 'ChromeUsers' in your home directory, containing a local user profile for running the Chrome browser. \
-This setup is necessary to bypass repeated login requests with two-factor authentication prompts when running the bot again. \
+Upon the first launch of the bot, you will be required to log into your VK account.\
+This action will create a folder named 'ChromeUsers' in your directory, containing a local user profile for running the Chrome browser.\
+This setup is necessary to bypass repeated login requests with two-factor authentication prompts when running the bot again.\
 You can customize these settings in the 'func.py' file.
 
 
 \
 RU::\
 Для запуска используйте: `cities.py`
+
 При первом запуске понадобится зайти в свой аккаунт вк. \
-В домашней директории создастся папка ChromeUsers с локальным пользователем браузера Chrome.\
+В директории будет создана папка 'ChromeUsers' с локальным пользователем браузера Chrome.\
 Данный шаг необходим для обхода постоянного логина в VK с помощью двухфакторной аутентификации при повторном запуске бота.\
-Вы можете изменить эти настройки в func.py.
+Вы можете изменить эти настройки в 'func.py'.
 
 
 <details> 
   <summary>Описание условий игры под спойлером:</summary>
-Игра в города:
 
 Игра начинается с того, что кто-нибудь пишет руками в чат команду `Старт`.
 
